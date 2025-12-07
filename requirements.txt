@@ -1,0 +1,11 @@
+flask
+flask_login
+pandas
+plotly
+scikit-learn
+numpy
+scipy
+flask_cors
+sentence-transformers
+chromadb
+torch
